@@ -2,9 +2,9 @@
 MATLAB plagiarism detector in python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Every year I have to mark around 600 coursework assignments. Sometime students hand in identical code.  To find out
-if the students are cheating I wrote this python script.  This is not really a nicely presented program so you may
-have to hack it about to get it to work. To use it:
+Every year I have to mark around 600 coursework assignments. Sometime students hand in identical code.
+To find out if the students are cheating I wrote this python script.  This is not really a nicely
+presented program so you may have to hack it about to get it to work. To use it:
 
 * place the students work in zip files in a directory called orig.
 * run removespace.sh a couple of times to remove spaces from the file names.
